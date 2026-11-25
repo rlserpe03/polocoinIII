@@ -1,20 +1,20 @@
 {
-  "short_name": "PoloCoin",
   "name": "Sistema Polo Premiação Alunos - PoloCoin",
+  "short_name": "PoloCoin",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#6d28d9",
   "icons": [
     {
-      "src": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
-      "type": "image/png",
-      "sizes": "192x192"
+      "src": "logo.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
     },
     {
-      "src": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
-      "type": "image/png",
-      "sizes": "512x512"
+      "src": "logo.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
     }
-  ],
-  "start_url": "./",
-  "background_color": "#6d28d9",
-  "theme_color": "#6d28d9",
-  "display": "standalone"
+  ]
 }
